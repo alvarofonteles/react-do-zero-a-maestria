@@ -1,6 +1,6 @@
 [submodule "react-fundamentos"]
 	path = react-fundamentos
 	url = https://github.com/alvarofonteles/react-fundamentos.git
-[submodule "react-avancando"]
-	path = react-avancando
-	url = https://github.com/alvarofonteles/react-avancando.git
+[submodule "react-avancado"]
+	path = react-avancado
+	url = https://github.com/alvarofonteles/react-avancado.git
