@@ -6,7 +6,15 @@ function App() {
 
   return (
     <>
-      <MyForm valor={{ name: 'Alvaro', email: '' }} />
+      <h2>Forms</h2>
+      <MyForm user={
+        {
+          name: 'Alvaro',
+          email: 'alvaro@hotmail.com',
+          bio: 'Olá sou Engenheiro de Software FullStack',
+          role: 'user'
+        }
+      } />
     </>
   )
 }
